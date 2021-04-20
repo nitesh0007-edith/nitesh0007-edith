@@ -1,4 +1,4 @@
-# Hi there, I am Swetabh Suman 👋
+# Hi there, I am Nitesh Ranjan 👋
 <img align="right" width="410" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SwetabhOfficial&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/SwetabhOfficial">
