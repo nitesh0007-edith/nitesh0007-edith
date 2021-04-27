@@ -1,5 +1,5 @@
 # Hi there, I am Nitesh Ranjan Singh 👋
-<img align="right" width="410" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
+<img align="right" width="350" height="140" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/nitesh0007-edith">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nitesh0007-edith&show_icons=true&include_all_commits=true&theme=radical" alt="Nitesh's github stats" />
