@@ -1,5 +1,5 @@
 # Hi there, I am Nitesh Ranjan Singh 👋
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&theme=juicyfresh" alt="nitesh0007-edith" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&theme=juicyfresh" alt="nitesh0007-edith" /></a> </p>
 <img align="right" width="420" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/nitesh0007-edith">
