@@ -1,7 +1,7 @@
 # Hi there, I am Nitesh Ranjan Singh 👋
 <a href="https://github.com/nitesh0007-edith/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&column=7&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&column=7&layout=compact&theme=radical&no-frame=true"/>
 </a>
 
 ---
