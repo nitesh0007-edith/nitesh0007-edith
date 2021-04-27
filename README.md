@@ -24,6 +24,7 @@
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&" alt="nitesh0007-edith" /></p>
 
 
 </div>
