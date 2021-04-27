@@ -12,7 +12,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&layout=compact&theme=radical" alt="nitesh0007-edith" /></p>
 </div>
 
----
 
 ## Visitor count
 <div>
