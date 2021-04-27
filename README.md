@@ -7,16 +7,19 @@
 ---
 
 <div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=nitesh0007-edith&layout=compact&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=nitesh0007-edith&layout=compact&theme=radical&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&layout=compact&theme=radical" alt="nitesh0007-edith" /></p>
 </div>
 
+---
 
 ## Visitor count
 <div>
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
 </p>
+</div>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&layout=compact&theme=radical" alt="nitesh0007-edith" /></p>
 
