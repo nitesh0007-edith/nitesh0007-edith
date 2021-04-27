@@ -24,6 +24,7 @@
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith" alt="nitesh0007-edith" /></a> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&" alt="nitesh0007-edith" /></p>
 
 
