@@ -1,6 +1,4 @@
 # Hi there, I am Nitesh Ranjan Singh 👋
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&theme=onedark
-" alt="nitesh0007-edith" /></a> </p>
 <img align="right" width="420" height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nitesh0007-edith&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/nitesh0007-edith">
@@ -21,13 +19,14 @@
 <a href="https://www.linkedin.com/in/nitesh0007/">
   <img align="left" alt="nitesh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Swetabhsuman8/Swetabhsuman8/master/files/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png" />
 </a><br><br>
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&layout=compact&theme=radical
+" alt="nitesh0007-edith" /></p>
 ## Visitor count
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&theme=onedark" alt="nitesh0007-edith" /></p>
+
 
 
 </div>
