@@ -13,7 +13,7 @@
 </div>
 
 
-## Visitor count
+# Visitor Count
 <div>
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
