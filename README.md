@@ -11,7 +11,7 @@
 |-------------------|----------------|-----------|-------------|--------------------|
 | **GUTS 2025** | UofG GUTS Challange by Morgan Stanley | 🥈 Runner-up | [**GUTS Hub — Market & Portfolio Intelligence**](#) | — |
 | **PyQVIA 2024** | IQVIA, London | 🥉 3rd Place | **Patient Information - Outlier Detection** | 💶 €300 |
-| **Smart India Hackathon 2021** | UPES | 🥇 Winner | **Smart Attendance Monitoring | 💵 ₹50,000 |
+| **Smart India Hackathon 2021** | UPES, India | 🥇 Winner | **Smart Attendance Monitoring | 💵 ₹50,000 |
 
 ---
 
