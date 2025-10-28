@@ -1,15 +1,17 @@
 # 👋 Hi there, I'm **Nitesh Ranjan Singh**
 
-🎯 Passionate about **Data Science**, **AI Engineering**, and **Full-Stack Development**  
+🎯 Passionate about **Data Science**, **AI Engineering**, and **Data Engineering**  
 💡 Constantly learning, building, and contributing to open-source projects.  
 🚀 I love solving complex problems and competing in **hackathons** across the globe!
 
 ---
+## 🚀 Hackathon Achievements
 
-## 🏆 GitHub Profile Trophy
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=nitesh0007-edith&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" />
-</a>
+| 🏅 Hackathon Name | 🏢 Organized By | 🏆 Result | 💡 Project | 💰 Prize / Outcome |
+|-------------------|----------------|-----------|-------------|--------------------|
+| **GUTS 2025** | UofG GUTS Challange by Morgan Stanley | 🥈 Runner-up | [**GUTS Hub — Market & Portfolio Intelligence**](#) | — |
+| **PyQVIA 2024** | IQVIA, London | 🥉 3rd Place | **Patient Information - Outlier Detection** | 💶 €300 |
+| **Smart India Hackathon 2021** | UPES | 🥇 Winner | **Smart Attendance Monitoring | 💵 ₹50,000 |
 
 ---
 
@@ -22,23 +24,6 @@
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0007-edith&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
----
-
-## 🚀 Hackathon Achievements
-
-| 🏅 Hackathon Name | 🏢 Organized By | 🏆 Result | 💡 Project | 💰 Prize / Outcome |
-|-------------------|----------------|-----------|-------------|--------------------|
-| **GUTS 2025** | UofG GUTS Challange by Morgan Stanley | 🥈 Runner-up | [**GUTS Hub — Market & Portfolio Intelligence**](#) | — |
-| **PyQVIA 2024** | IQVIA, London | 🥉 3rd Place | **Patient Information - Outlier Detection** | 💶 €300 |
-| **Smart India Hackathon 2021** | UPES | 🥇 Winner | **Smart Attendance Monitoring | 💵 ₹50,000 |
-
----
-
-## 🌐 Visitor Count
-<p align="left">
-  <img src="https://profile-counter.glitch.me/nitesh0007-edith/count.svg" />
-</p>
 
 ---
 
