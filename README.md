@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=650&lines=Building+pipelines+that+don't+break+at+2am+%F0%9F%94%A7;10M%2B-record+platforms+for+global+pharma;QLoRA+%C2%B7+DPO+%C2%B7+vLLM+%C2%B7+Hybrid+RAG+%C2%B7+MCP+Agents;Kaggle+2nd+Place+%F0%9F%A5%88+Team+HyperX;MSc+Data+Science+%40+University+of+Glasgow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=800&lines=Building+pipelines+that+don%27t+break+at+2am+%F0%9F%94%A7;10M%2B-record+platforms+for+global+pharma;QLoRA+%C2%B7+DPO+%C2%B7+vLLM+%C2%B7+Hybrid+RAG+%C2%B7+MCP+Agents;Kaggle+2nd+Place+%F0%9F%A5%88+Team+HyperX;MSc+Data+Science+%40+University+of+Glasgow)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nitesh0007/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,42 +23,53 @@
 
 ---
 
-## 🚀 About Me
+## 📖 About Me — Character Sheet
 
 ```python
 class DataAIEngineer:
-    def __init__(self):
-        self.name = "Nitesh Ranjan Singh"
-        self.role = "Data Engineer & AI Engineer"
-        self.education = "MSc Data Science @ University of Glasgow (£10K Excellence Scholar)"
-        self.experience = "3+ years @ IQVIA & Axtria — GSK / J&J / AstraZeneca pharma analytics"
-        self.interests = ["Data Pipelines", "LLM Fine-Tuning", "Hybrid RAG", "MCP Agents"]
+    """Hybrid build: tanky data pipelines + high-DPS GenAI. Fuelled by strong chai ☕"""
 
-    def current_focus(self):
-        return ["CRM & data-system migration @ Street Connect",
-                "Explainable & fair recommenders (MSc dissertation → ACM RecSys 2026)"]
+    name       = "Nitesh Ranjan Singh"
+    class_type = "Data Engineer ⚔️ AI Engineer"
+    guild      = "University of Glasgow — MSc Data Science (£10K Excellence Scholar)"
+    xp         = "3+ years @ IQVIA & Axtria — GSK / J&J / AstraZeneca pharma analytics"
+
+    special_moves = {
+        "🌊 Pipeline Mastery": "CDC + metadata-driven ETL — 10M+ records/batch at 99.8% accuracy",
+        "🔥 LLM Forging":      "QLoRA / DPO fine-tuning, vLLM serving at <200ms P95",
+        "🧭 Hybrid RAG":       "BM25 ∪ dense ∪ RRF ∪ rerank — cite-or-abstain, no hallucinations",
+        "🤖 Agent Summoning":  "MCP tool-use agents with production guardrails",
+    }
 
     def fun_fact(self):
         return "I like the hard, unglamorous middle of the stack — pipelines that don't break silently at 2am 🔧"
 ```
 
-- 💼 Currently a **Data System & CRM Migration Intern @ Street Connect**, Glasgow (Jun 2026 – present)
-- 🎓 Completing an **MSc in Data Science** at the **University of Glasgow** (2025–2026)
-- 🥈 **2nd place, Kaggle** — LLM Agentic Legal Information Retrieval ($3,000 prize, Team HyperX)
-- 🔭 Built the omnichannel data platform behind **GSK's €2B+ European pharma portfolio**
-- 🌱 Going deep on **QLoRA/DPO fine-tuning, vLLM serving, hybrid RAG, and Anthropic's MCP**
-- 🤝 Mentored **50+ students** on UK Master's & data careers — [book a 1:1](https://topmate.io/nitesh2039)
-- 📍 Based in **Glasgow, Scotland** 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+### 🗺️ Quest Log
+
+- ⚔️ **Active quest** — Data System & CRM Migration Intern @ **Street Connect**, Glasgow *(Jun 2026 – present)*
+- 🏰 **Main storyline** — MSc Data Science @ **University of Glasgow** *(2025–2026)*, dissertation on explainable & fair recommenders → **ACM RecSys 2026**
+- 🐉 **Boss defeated** — 🥈 2nd place on Kaggle's *LLM Agentic Legal Information Retrieval* — **$3,000 loot**, Team HyperX
+- 🏗️ **Legendary build** — the omnichannel data platform behind **GSK's €2B+ European pharma portfolio**
+- 🌱 **Skill tree in progress** — QLoRA/DPO fine-tuning · vLLM serving · hybrid RAG · Anthropic's MCP
+- 🤝 **Guild duties** — mentored **50+ students** on UK Master's & data careers (5/5 rating) — [book a 1:1](https://topmate.io/nitesh2039)
+- 📍 **Spawn point** — Glasgow, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ---
 
-## 🏆 Competitions & Recognition
+## 🏆 Battle Record — Achievements Unlocked
 
-| 🏅 Competition | 🏢 Organised By | 🏆 Result | 💡 Project | 💰 Prize |
+<div align="center">
+
+<code>🎖️ ACHIEVEMENT UNLOCKED: "Silver Litigator" — out-retrieved the field on Swiss legal citations 🥈</code>
+
+</div>
+
+| ⚔️ Arena | 🏰 Host | 🏆 Outcome | 🗡️ Weapon of Choice | 💰 Loot |
 |---|---|---|---|---|
-| **LLM Agentic Legal Information Retrieval** | Kaggle | 🥈 2nd Place (Team HyperX) | [Agentic Swiss legal-citation retrieval](https://github.com/Dharundp6/LLM_agentic) | 💵 $3,000 |
-| **GUTS 2025 Hackathon** | Morgan Stanley | 🥈 Runner-Up | AURA — MCP Gateway (agentic network management) | — |
-| **CodeOlympic26** | Glasgow University Tech Society | 🥇 Gold Medal | Competitive programming | — |
+| **LLM Agentic Legal Information Retrieval** | Kaggle | 🥈 2nd Place — Team HyperX | [Agentic hybrid retrieval of Swiss legal citations](https://github.com/Dharundp6/LLM_agentic) | 💵 $3,000 |
+| **GUTS 2025 Hackathon** | Morgan Stanley | 🥈 Runner-Up | AURA — MCP Gateway (agentic network management) | 🛡️ Glory |
+| **CodeOlympic26** | Glasgow University Tech Society | 🥇 Gold Medal | Competitive programming | 🥇 Gold |
 | **PyQVIA 2024** | IQVIA, London | 🥉 3rd Place | Patient Information — Outlier Detection | 💶 €300 |
 | **Smart India Hackathon 2021** | UPES, India | 🥇 Winner | Smart Attendance Monitoring | 💵 ₹50,000 |
 
@@ -151,10 +162,6 @@ class DataAIEngineer:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nitesh0007-edith&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0007-edith&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%"/>
 </div>
 
 ---
