@@ -133,8 +133,8 @@ class DataAIEngineer:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitesh0007-edith&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0007-edith&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitesh0007-edith&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitesh0007-edith&theme=tokyonight" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
