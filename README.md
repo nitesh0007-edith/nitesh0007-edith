@@ -1,15 +1,23 @@
+<!-- Tokyonight wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=NITESH%20RANJAN%20SINGH&fontSize=44&fontColor=c0caf5&fontAlignY=35&desc=Data%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Glasgow%2C%20Scotland&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitesh+Ranjan+Singh;Data+Engineer+%26+AI+Engineer;MSc+Data+Science+%40+UofG;Azure+Pipelines+%7C+GenAI+%7C+RAG+%7C+MCP+Agents;Kaggle+2nd+Place+%F0%9F%A5%88+Team+HyperX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=650&lines=Building+pipelines+that+don't+break+at+2am+%F0%9F%94%A7;10M%2B-record+platforms+for+global+pharma;QLoRA+%C2%B7+DPO+%C2%B7+vLLM+%C2%B7+Hybrid+RAG+%C2%B7+MCP+Agents;Kaggle+2nd+Place+%F0%9F%A5%88+Team+HyperX;MSc+Data+Science+%40+University+of+Glasgow)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nitesh0007/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:niteshranjansingh85389@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nitesh0007-edith.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://nitesh0007-edith.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=7aa2f7" alt="Portfolio"/></a>
   <a href="https://topmate.io/nitesh2039"><img src="https://img.shields.io/badge/Topmate-Book%20a%201%3A1-00B289?style=for-the-badge" alt="Topmate"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nitesh0007-edith&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nitesh0007-edith&style=for-the-badge&color=7aa2f7" alt="Profile Views"/>
 </p>
+
+<!-- Comic portfolio callout -->
+<a href="https://nitesh0007-edith.github.io">
+  <img src="https://img.shields.io/badge/%F0%9F%93%96%20My%20portfolio%20reads%20like%20a%20manga%20%E2%80%94%20ISSUE%20%231%20out%20now-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Comic portfolio"/>
+</a>
 
 </div>
 
@@ -62,8 +70,12 @@ class DataAIEngineer:
 
 ## 💻 Tech Stack
 
-<details open>
-<summary><b>Languages</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,azure,aws,pytorch,sklearn,docker,kubernetes,fastapi,postgres,nextjs,githubactions&theme=dark" alt="Core stack"/>
+</p>
+
+<details>
+<summary><b>🔤 Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -73,8 +85,8 @@ class DataAIEngineer:
 
 </details>
 
-<details open>
-<summary><b>Data Engineering & Cloud</b></summary>
+<details>
+<summary><b>🏗️ Data Engineering & Cloud</b></summary>
 <br>
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -87,8 +99,8 @@ class DataAIEngineer:
 
 </details>
 
-<details open>
-<summary><b>GenAI / ML</b></summary>
+<details>
+<summary><b>🧠 GenAI / ML</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -100,8 +112,8 @@ class DataAIEngineer:
 
 </details>
 
-<details open>
-<summary><b>Engineering, MLOps & BI</b></summary>
+<details>
+<summary><b>⚙️ Engineering, MLOps & BI</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -141,14 +153,18 @@ class DataAIEngineer:
   <img src="https://streak-stats.demolab.com/?user=nitesh0007-edith&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0007-edith&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%"/>
+</div>
+
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitesh0007-edith/nitesh0007-edith/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitesh0007-edith/nitesh0007-edith/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nitesh0007-edith/nitesh0007-edith/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nitesh0007-edith/nitesh0007-edith/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
@@ -157,8 +173,9 @@ class DataAIEngineer:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
-
 <div align="center">
   <b>Thanks for visiting! Open to Data / AI Engineer roles for Summer 2026 — let's build something reliable together 🚀</b>
 </div>
+
+<!-- Tokyonight wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
