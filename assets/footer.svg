@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="footer-title">
+<title id="footer-title">Let's build something reliable together — Nitesh Ranjan Singh</title>
+<defs></defs>
+<style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+
+<rect width="1200" height="170" rx="14" fill="#11172A"/>
+<path d="M0 1h1200" stroke="#7AA2F7" stroke-opacity=".4"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" text-anchor="middle"><text x="600" y="69" fill="#E0E7FF" font-size="28" font-weight="600">Good data. Thoughtful AI. Let's build.</text><text x="600" y="107" fill="#9AA5CE" font-size="16">Data / AI opportunities · Collaborations · Mentoring</text></g>
+<g fill="#7DCFFF"><circle cx="568" cy="139" r="2"/><circle cx="584" cy="139" r="2" fill="#7AA2F7"/><circle cx="600" cy="139" r="2" fill="#BB9AF7"/><circle cx="616" cy="139" r="2" fill="#7AA2F7"/><circle cx="632" cy="139" r="2"/></g>
+<path class="motion" d="M530 139h140" stroke="#7DCFFF" stroke-dasharray="6 134"><animate attributeName="stroke-dashoffset" values="140;0" dur="5s" repeatCount="indefinite"/></path>
+</svg>

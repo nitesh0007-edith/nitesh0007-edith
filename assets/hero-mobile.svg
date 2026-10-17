@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="570" viewBox="0 0 700 570" role="img" aria-labelledby="hero-mobile-title">
+<title id="hero-mobile-title">Nitesh Ranjan Singh — Data Engineer / AI Engineer, Glasgow</title>
+<defs>
+<linearGradient id="hero-bg" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset=".55" stop-color="#11172D"/><stop offset="1" stop-color="#1B1840"/></linearGradient>
+<linearGradient id="hero-accent"><stop stop-color="#7DCFFF"/><stop offset=".5" stop-color="#7AA2F7"/><stop offset="1" stop-color="#BB9AF7"/></linearGradient>
+<radialGradient id="hero-aura"><stop stop-color="#7AA2F7" stop-opacity=".2"/><stop offset="1" stop-color="#7AA2F7" stop-opacity="0"/></radialGradient>
+<pattern id="hero-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7AA2F7" stroke-opacity=".06"/></pattern>
+<filter id="hero-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+<rect width="700" height="570" rx="18" fill="url(#hero-bg)"/><rect width="700" height="570" rx="18" fill="url(#hero-grid)"/><path d="M18 .5H682" stroke="url(#hero-accent)" stroke-opacity=".8"/><g transform="translate(-490 -12)" opacity=".16">
+<ellipse cx="960" cy="224" rx="275" ry="250" fill="url(#hero-aura)"/>
+<g fill="none" stroke="#7AA2F7">
+<path d="M960 67 1096 145V301L960 379 824 301V145Z" stroke-opacity=".22"/>
+<path d="M960 94 1072 159V287L960 352 848 287V159Z" stroke-opacity=".12"/>
+<path d="M960 67V379M824 145 1096 301M824 301 1096 145" stroke-opacity=".1"/>
+<circle cx="960" cy="223" r="101" stroke-dasharray="2 10" stroke-opacity=".35"/>
+</g>
+<g fill="#11182D" stroke="#7AA2F7" stroke-width="1.5">
+<path d="m960 161 54 31v62l-54 31-54-31v-62Z"/>
+<path d="m906 192 54 31 54-31M960 223v62" fill="none"/>
+</g>
+<path d="m960 161 54 31-54 31-54-31Z" fill="#7AA2F7" fill-opacity=".15"/>
+<g fill="none" stroke-width="1.5">
+<path id="hero-route-a" d="M780 285h48l46-62h32" stroke="#7DCFFF" stroke-opacity=".55"/>
+<path id="hero-route-b" d="M1014 223h37l44-66h48" stroke="#BB9AF7" stroke-opacity=".55"/>
+<path d="M960 161V124h-75l-30-29h-55M960 285v40h80l28 28h75" stroke="#7AA2F7" stroke-opacity=".35"/>
+</g>
+<g fill="#7DCFFF"><circle cx="780" cy="285" r="4"/><circle cx="906" cy="223" r="3"/></g>
+<g fill="#BB9AF7"><circle cx="1143" cy="157" r="4"/><circle cx="1014" cy="223" r="3"/></g>
+<g fill="#7AA2F7"><circle cx="800" cy="95" r="3"/><circle cx="1143" cy="353" r="3"/></g>
+<g class="motion" fill="#C0E8FF">
+<circle r="3"><animateMotion dur="4s" repeatCount="indefinite" path="M780 285h48l46-62h32"/></circle>
+<circle r="3"><animateMotion dur="4s" begin="2s" repeatCount="indefinite" path="M1014 223h37l44-66h48"/></circle>
+</g>
+<g font-family="Consolas, monospace" font-size="10" letter-spacing="2" fill="#8998BD">
+<text x="779" y="311">INGEST</text><text x="1068" y="139">SERVE</text>
+<text x="960" y="400" text-anchor="middle">DATA → INTELLIGENCE</text>
+</g></g>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<g font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="2" fill="#9AA5CE"><text x="52" y="58">NRS / DEVELOPER PROFILE</text></g>
+<path d="M52 83h40" stroke="#7DCFFF" stroke-width="3"/>
+<text x="48" y="194" fill="#F1F5FF" font-size="91" font-weight="750" letter-spacing="-3">NITESH</text>
+<text x="50" y="269" fill="url(#hero-accent)" font-size="61" font-weight="700" letter-spacing="-2">RANJAN SINGH<tspan fill="#7DCFFF">.</tspan></text>
+<text x="53" y="329" fill="#C0CAF5" font-size="23">Data Engineer <tspan fill="#565F89">/</tspan> AI Engineer</text>
+<text x="53" y="374" fill="#9AA5CE" font-size="17">Reliable pipelines. Grounded AI.</text>
+</g>
+<path d="M52 487H648" stroke="#7AA2F7" stroke-opacity=".18"/>
+<g font-family="'SFMono-Regular', Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#9AA5CE">
+<circle cx="57" cy="522" r="3" fill="#9ECE6A"/>
+<text x="70" y="526">GLASGOW, SCOTLAND</text>
+<text x="648" y="526" text-anchor="end">MSc DATA SCIENCE / UofG</text></g>
+</svg>

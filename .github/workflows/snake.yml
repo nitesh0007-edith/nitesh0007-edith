@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Refresh profile activity
 
 on:
   schedule:
@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile sources
+        uses: actions/checkout@v4
+
       - name: Generate snake SVGs (tokyonight palette)
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +25,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#9d7cd8&color_dots=#e6e8ef,#9aa5ce,#7aa2f7,#3d59a1,#24283b
             dist/github-contribution-grid-snake-dark.svg?color_snake=#bb9af7&color_dots=#24283b,#3d59a1,#5a7fd6,#7aa2f7,#c0caf5
+
+      - name: Render genuine GitHub contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/render_activity.py dist/activity.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
