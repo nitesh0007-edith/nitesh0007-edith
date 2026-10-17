@@ -1,0 +1,34 @@
+name: Refresh contribution heatmap
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render genuine GitHub contributions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_contributions.py
+      - name: Save updated heatmap
+        run: |
+          if git diff --quiet -- assets/contributions.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git commit -m "Refresh GitHub contribution heatmap"
+          git push
